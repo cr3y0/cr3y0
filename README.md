@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **crey.0xd@gmail.com**
+- 📫 **crey.0xd@gmail.com**
 
-- ⚡ Fun fact **fuck uall**
+- ⚡ **fuck uall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
